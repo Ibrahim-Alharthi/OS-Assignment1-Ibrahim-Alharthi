@@ -32,20 +32,20 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [26-27 March]
+**What I did**: setup github and forked the repository and added my student id in line 150
 
-**Details**: 
+**Details**: signed in github with my university email , forked the repository and connect github with vs studio by "git" , follow the guide in file and changed the id in line 150 .
 
-**Challenges**: 
+**Challenges**: some problems in connecting vs studio with github specifically with downloading git.
 
-**Solution**: 
+**Solution**: asked my friends and quick solved by editting some settings.
 
-**Time spent**: 
+**Time spent**: 1-3 hours.
 
 ---
 
-### Entry 2 - [Date and Time]
+### Entry 2 - [27-28 March]
 **What I did**: 
 
 **Details**: 
